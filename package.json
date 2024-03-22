@@ -1,0 +1,15 @@
+{
+  "name": "culpacum",
+  "version": "1.0.0",
+  "description": "Exhaustive check for typescript type never",
+  "main": "lib-cjs/index.js",
+  "module": "lib-esm/index.js",
+  "types": "lib-cjs/index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MetaJerde/culpacum.git"
+  },
+  "author": "EltaGraham",
+  "license": "MIT",
+  "homepage": "https://github.com/MetaJerde/culpacum.git"
+}
